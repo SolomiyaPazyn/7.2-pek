@@ -1,0 +1,7 @@
+﻿  UnitTest7.2 pek.cpp
+D:\programming\lab 7.2 pek\lab 7.2 pek\UnitTest7.2 pek\UnitTest7.2 pek.cpp(15,2): error C2143: syntax error: missing ';' before 'namespace'
+  (compiling source file '/UnitTest7.2%20pek.cpp')
+  
+D:\programming\lab 7.2 pek\lab 7.2 pek\UnitTest7.2 pek\UnitTest7.2 pek.cpp(43,3): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest7.2%20pek.cpp')
+  

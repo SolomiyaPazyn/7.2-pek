@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9228019-3F1C-4C29-8FC9-8796DE563C7E}|lab 7.2 pek.vcxproj|D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\lab 7.2 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9228019-3F1C-4C29-8FC9-8796DE563C7E}|lab 7.2 pek.vcxproj|solutionrelative:lab 7.2 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F94CCF-5679-4322-9542-EEA646CC3A10}|UnitTest7.2 pek\\UnitTest7.2 pek.vcxproj|D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\UnitTest7.2 pek\\UnitTest7.2 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F94CCF-5679-4322-9542-EEA646CC3A10}|UnitTest7.2 pek\\UnitTest7.2 pek.vcxproj|solutionrelative:UnitTest7.2 pek\\UnitTest7.2 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest7.2 pek.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\UnitTest7.2 pek\\UnitTest7.2 pek.cpp",
+              "RelativeDocumentMoniker": "UnitTest7.2 pek\\UnitTest7.2 pek.cpp",
+              "ToolTip": "D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\UnitTest7.2 pek\\UnitTest7.2 pek.cpp",
+              "RelativeToolTip": "UnitTest7.2 pek\\UnitTest7.2 pek.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T01:46:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab 7.2 pek.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\lab 7.2 pek.cpp",
+              "RelativeDocumentMoniker": "lab 7.2 pek.cpp",
+              "ToolTip": "D:\\programming\\lab 7.2 pek\\lab 7.2 pek\\lab 7.2 pek.cpp",
+              "RelativeToolTip": "lab 7.2 pek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T01:22:51.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
